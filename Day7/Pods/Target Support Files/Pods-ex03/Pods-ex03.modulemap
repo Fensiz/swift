@@ -1,0 +1,6 @@
+framework module Pods_ex03 {
+  umbrella header "Pods-ex03-umbrella.h"
+
+  export *
+  module * { export * }
+}
